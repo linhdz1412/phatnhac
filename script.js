@@ -29,7 +29,11 @@ $(function()
     { artist: "Ca si 2",
      name: "Mùa Hạ Năm Ấy - Linh - OFFICIAL", 
      url: "Musics/Mùa Hạ Năm Ấy - Linh - OFFICIAL.mp3",
-      picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg" } ];
+      picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg" },
+      { artist: "Ca si 2",
+      name: "ĐÔNG KIẾM EM - Vũ. (Original)", 
+      url: "Musics/ĐÔNG KIẾM EM - Vũ. (Original).mp3",
+       picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg" }, ];
 	
 	function shuffle(a) {
 		var j, x, i;
