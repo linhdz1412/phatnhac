@@ -26,14 +26,25 @@ $(function()
 		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	},
-    { artist: "Ca si 2",
+    { artist: "Linh ",
      name: "Mùa Hạ Năm Ấy - Linh - OFFICIAL", 
      url: "Musics/Mùa Hạ Năm Ấy - Linh - OFFICIAL.mp3",
       picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg" },
-      { artist: "Ca si 2",
+      ,{ artist: "Vũ",
       name: "ĐÔNG KIẾM EM - Vũ. (Original)", 
       url: "Musics/ĐÔNG KIẾM EM - Vũ. (Original).mp3",
-       picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg" }, ];
+       picture: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fphoto-resize-zmp3.zadn.vn%2Fw360_r1x1_jpeg%2Favatars%2Fb%2Fa%2Fd%2F2%2Fbad27197c6774fc04c039c040ed8813c.jpg&imgrefurl=https%3A%2F%2Fm.zingmp3.vn%2FVu&tbnid=PN7xBBmAdByhRM&vet=12ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygKegUIARC1AQ..i&docid=zzo5NpLMMFRVlM&w=320&h=320&q=v%C5%A9&ved=2ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygKegUIARC1AQ" },
+
+       { artist: "Vũ",
+       name: "LẠ LÙNG - Vũ. (Original)", 
+       url: "Musics/LẠ LÙNG - Vũ. (Original).mp3",
+        picture: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fevent.mediacdn.vn%2F2020%2F11%2F30%2Fvu-p-16067234297342144615946.png&imgrefurl=https%3A%2F%2Fhot14.vn%2Fprofile%2Fvu-135.htm&tbnid=iaoZbFVnCLjMGM&vet=12ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygDegUIARCnAQ..i&docid=5_chPwbxbHatTM&w=800&h=800&q=v%C5%A9&ved=2ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygDegUIARCnAQ" },
+        { artist: "Vũ",
+        name: "BƯỚC QUA MÙA CÔ ĐƠN - Vũ. (Official MV)", 
+        url: "Musics/BƯỚC QUA MÙA CÔ ĐƠN - Vũ. (Official MV).mp3",
+         picture: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fnguoinoitieng.tv%2Fimages%2Fnnt%2F100%2F0%2Fbevd.jpg&imgrefurl=https%3A%2F%2Fnguoinoitieng.tv%2Fnghe-nghiep%2Fca-si%2Fvu-thai-vu%2Fbevd&tbnid=5Yz0o5ej5VJi3M&vet=12ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygFegUIARCrAQ..i&docid=UcFMxU0ppIf1qM&w=640&h=960&q=v%C5%A9&ved=2ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygFegUIARCrAQ" },
+         
+     ];
 	
 	function shuffle(a) {
 		var j, x, i;
