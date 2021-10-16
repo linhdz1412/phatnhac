@@ -45,7 +45,7 @@ $(function()
          picture: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fnguoinoitieng.tv%2Fimages%2Fnnt%2F100%2F0%2Fbevd.jpg&imgrefurl=https%3A%2F%2Fnguoinoitieng.tv%2Fnghe-nghiep%2Fca-si%2Fvu-thai-vu%2Fbevd&tbnid=5Yz0o5ej5VJi3M&vet=12ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygFegUIARCrAQ..i&docid=UcFMxU0ppIf1qM&w=640&h=960&q=v%C5%A9&ved=2ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygFegUIARCrAQ" },
          { artist: "duy linh",
          name: "Nhạc Lofi 2021 ", 
-         url: "Musics/Nhạc Lofi 2021",
+         url: "Musics/Nhạc Lofi 2021  .mp3",
           picture: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fnguoinoitieng.tv%2Fimages%2Fnnt%2F100%2F0%2Fbevd.jpg&imgrefurl=https%3A%2F%2Fnguoinoitieng.tv%2Fnghe-nghiep%2Fca-si%2Fvu-thai-vu%2Fbevd&tbnid=5Yz0o5ej5VJi3M&vet=12ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygFegUIARCrAQ..i&docid=UcFMxU0ppIf1qM&w=640&h=960&q=v%C5%A9&ved=2ahUKEwib1feV2czzAhULBJQKHUl4D8cQMygFegUIARCrAQ" },
           
          
